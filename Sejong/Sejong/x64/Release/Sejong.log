@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\User\source\repos\Sejong\Sejong\Source.c(64,21): warning C4244: '함수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\Sejong\Sejong\Source.c(78,29): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : fatal error LNK1181: 'libcryptoMDd.lib' 입력 파일을 열 수 없습니다.
