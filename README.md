@@ -1,1 +1,1 @@
-This project is compatible only with Windows environments
+This project is compatible only with <b>Windows environments</b>
