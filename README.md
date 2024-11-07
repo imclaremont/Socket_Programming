@@ -1,1 +1,1 @@
-works **only with <b>Windows</b>**
+working **only with <b>Windows</b>**
