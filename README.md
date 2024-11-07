@@ -1,1 +1,1 @@
-only with <b>Windows</b>
+This project works **only with <b>Windows</b>**.
